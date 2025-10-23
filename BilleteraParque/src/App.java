@@ -85,7 +85,7 @@ public class App {
                     System.out.println("\nCompró un(a) " + premioSeleccionado.getNombre() + " por " + costo + " tickets.");
     
                 } else { 
-                    System.out.println("\nNo hay suficientes boletos para comprar un(a)" + premioSeleccionado.getNombre() + ".");
+                    System.out.println("\nNo hay suficientes boletos para comprar un(a) " + premioSeleccionado.getNombre() + ".");
     
                 }
     }
